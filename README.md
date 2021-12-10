@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... cyber security / soccer / travel /food
 - 🌱 I’m currently learning ... coding at UW coding boot camp
 - 💞️ I’m looking to collaborate on ... web and software development 
-- 📫 How to reach me ...
+- 📫 How to reach me ... laperolanegra@gmail.com 
 
 <!---
 laperolanegra10/laperolanegra10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
