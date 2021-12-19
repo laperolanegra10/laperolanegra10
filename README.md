@@ -1,20 +1,8 @@
 
 MY USER STORY
-    I am aspiring developer with my main goal to become a proficient software engineer. I have
-    
-     worked in IT for the last five years, mostly within helpdesk positions. I have always 
-     
-     been interested in learning coding languages. This assignment has given me some insight 
-
-     into refactoring and introducing me to learn how to clean up code to leave it better than
-
-     I found it. 
-
-     Below are the changes that were made to the index.html and the style.css files. This will
-
-     serve well as a reference guide for the next person that would need to work on this code.
-
-
+ I am aspiring developer with my main goal to become a proficient software engineer. I have
+ worked in IT for the last five years, mostly within helpdesk positions. I have always  been interested in learning coding languages. This assignment has given me some insight into refactoring and introducing me to learn how to clean up code to leave it better thanI found it. Below are the changes that were made to the index.html and the style.css files. This will
+ serve well as a reference guide for the next person that would need to work on this code.
 These changes are purely semantic. In order to have a cleaner more specific piece of code the changes below show a more proper use of semantic tags. 
 
 <!-- Changes made to the index.html file -->
@@ -27,6 +15,15 @@ These changes are purely semantic. In order to have a cleaner more specific piec
 7. Lines 59, 66, 74, 75,82 changed the div tag to section.
 8. Lines 84 and 89 changed the div tags to footer
 
+<!-- Changes made to the style.css file. -->
+1. removed the . referencing the header, header h1, header h1 .seo, header nav, header nav ul and header nav ul li. 
+2. Changed the header div after all of the headers to header nav.
 
+
+github repo to laperolanegra 10:
+ https://github.com/laperolanegra10/laperolanegra10.git
+
+Deployed website url: 
+file:///Users/djuarez/Desktop/laperolanegra10/index.html
 
 ![finishedwebsite](./assets/images/FinishedHomework.html.png "Deployed website") 
