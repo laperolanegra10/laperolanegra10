@@ -19,11 +19,12 @@ These changes are purely semantic. In order to have a cleaner more specific piec
 1. removed the . referencing the header, header h1, header h1 .seo, header nav, header nav ul and header nav ul li. 
 2. Changed the header div after all of the headers to header nav.
 
+<!-- Deployment URLs for Application and Github -->
 
-github repo to laperolanegra 10:
- https://github.com/laperolanegra10/laperolanegra10.git
+ [deploymentRepository]https://github.com/laperolanegra10/laperolanegra10.git
 
-Deployed website url: 
-file:///Users/djuarez/Desktop/laperolanegra10/index.html
 
+[deploymentapplication]file:///Users/djuarez/Desktop/laperolanegra10/index.html
+
+<!-- Images of refactored website  -->
 ![finishedwebsite](./assets/images/FinishedHomework.html.png "Deployed website") 
